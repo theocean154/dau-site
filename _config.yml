@@ -3,7 +3,7 @@ title: dau.
 email: t.paine154@gmail.com
 url: https://paine.nyc/dau
 description: "dau"
-baseurl: dau
+baseurl: /dau
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
